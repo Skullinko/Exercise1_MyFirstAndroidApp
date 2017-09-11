@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\ff0c7216587161e87917962d600e535be39d4fd1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_327e43b5325f8496cc8997e0120536ab6df8208a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\bb9cd7712b4e6782bd4ed964c213f8c731b5e96d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97255f3fe221e1c8a5d1181e06f4ea59fee2b450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\4cdf70bbd8f4ff0df12b0171b907cc7fe73bf9c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7553898c0bf2a5d5c00fad41a74bc2375e012b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_37e63c7e121db4b247199847cfa4049b67376adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\2cc81ca3cd933fed114cb7b219d47a514ff432ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acf12f6efc759f83f5a17f4e7e38249f2436489c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="33fd63ba4a1c857c01df273964f18f8aa1642622">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_56d532e80d21cdb69047954835f8dabe535ae3e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\87d49e5dc83188e9351527d5deabacc32c9bcb40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcd3251e50a2c505e508b7828198ec491154d176\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_06aa4bdb7142d692f1f6194b2cfa746c3fa3a7d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b43f9dd47d0cbb1429ec02194d16114c5b6c83a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\aa26725e0bdc00f26f1171c36ab69e45d2b0c730\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b530ee9125c69905e664fefd6a389d8f886f649\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\dbe87eb0a8f5ccc36a1ba248e8d9b4b0b5e8016d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d033f64fff3b9e5eec6fe64cd754f861bd9eb427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\19c7086e866fbb33f7f37fee2bbb1fc981703c95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9f9decaab33a5c8f08e87b88c20e377e1798268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\a03cf3bd96de322837e1fda8685dd262d08dbb7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d84ad73425650214fb7bb177c035c20c4fe39b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\milos\.android\build-cache\776c5e0448ab375f1831ec3d99e432ec6b8e0638\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\milos\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_440ab19edd2388f25291e13e6582e454d3f4ae40\classes.dex" />
+    </item>
+
+</items>
